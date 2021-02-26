@@ -35,4 +35,4 @@ with **HY-WEP** (Hanyang University Work Experience Program)
 
 * All materials passed the review regarding the policies and regulations related to confidential information within the company.
 
-* Some parts in the presentation slides which are related to confidential information have been blocked.
+* Some parts in the presentation slides including confidential information have been blocked.
