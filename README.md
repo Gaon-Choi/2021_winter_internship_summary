@@ -6,10 +6,25 @@
 🏢 Company : SuresoftTech Inc.
 
 
+🌎 Location : (Daechi-dong, Daekyung Tower) 13, Teheran-ro 86-gil, Gangnam-gu, Seoul, Republic of Korea
+
+
 💻 Department : CS-Static Team, Test Automation Lab
 
 
 🧑🏻 Position : Intern
+
+
+📚 Tasks
+
+
+1. MISRA C 2012 / MISRA CPP 2008 Code Rules Study
+
+
+2. Review and Improvement work for Rules Manual for Users
+
+
+3. Design and Testing for Good/Bad cases with Codescroll STATIC
 
 
 ⏰ Employment Period : 2020.12.28. ~ 2021.02.26.
